@@ -1,5 +1,5 @@
-output/*
-tmp/*
-public
-.hugo_build.lock
-resources/_gen/images
+emily-caitlan-media/output/*
+emily-caitlan-media/tmp/*
+emily-caitlan-media/public
+emily-caitlan-media/.hugo_build.lock
+emily-caitlan-media/resources/_gen/images
