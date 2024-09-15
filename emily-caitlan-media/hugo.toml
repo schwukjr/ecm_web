@@ -1,0 +1,11 @@
+baseURL = 'https://emilycaitlan.co.uk/'
+languageCode = 'en-gb'
+title = 'Emily Caitlan Media'
+theme = "gallery"
+copyright = "© 2024 Emily Caitlan Media. All rights reserved."
+
+[params]
+  [params.socialIcons]
+    facebook = "https://www.facebook.com/emilycaitlanmedia"
+    instagram = "https://www.instagram.com/emilycaitlanmedia"
+    email = "mailto:emilycaitlanmedia@gmail.com"
