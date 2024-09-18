@@ -60,9 +60,9 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --source "emily-caitlan-media"         
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
-          path: ./public
+          path: ./emily-caitlan-media/public
 
   # Deployment job
   deploy:
