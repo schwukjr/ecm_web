@@ -1,7 +1,7 @@
 ---
-featured_image: ECM-04.jpg
+featured_image: ECM-1.jpg
 title: Food & Drinks
 #type: gallery
 sort_by: Name
-weight: 2
+weight: 1
 ---
